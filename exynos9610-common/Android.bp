@@ -75,7 +75,6 @@ android_app_import {
 	name: "MotCamera2",
 	owner: "motorola",
 	apk: "proprietary/product/priv-app/MotCamera2/MotCamera2.apk",
-	overrides: ["Aperture"],
 	certificate: "platform",
 	dex_preopt: {
 		enabled: false,
