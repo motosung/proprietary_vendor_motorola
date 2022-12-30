@@ -333,6 +333,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/libaudioproxy.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudioproxy.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/libcsc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcsc.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/libdapparamstorage.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdapparamstorage.so \
+    vendor/motorola/exynos9610-common/proprietary/vendor/lib/libdrmresource.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdrmresource.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/libepicoperator.so:$(TARGET_COPY_OUT_VENDOR)/lib/libepicoperator.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/libexynoscamera_hifi_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera_hifi_plugin.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/libexynoscamera_hifills_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera_hifills_plugin.so \
@@ -410,6 +411,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/libcharon.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcharon.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/libcsc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcsc.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/libdapparamstorage.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdapparamstorage.so \
+    vendor/motorola/exynos9610-common/proprietary/vendor/lib64/libdrmresource.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdrmresource.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/libepicoperator.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libepicoperator.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/libexynoscamera_hifi_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynoscamera_hifi_plugin.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/libexynoscamera_hifills_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynoscamera_hifills_plugin.so \
