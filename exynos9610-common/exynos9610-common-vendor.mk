@@ -314,7 +314,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/hw/gralloc.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/hw/hwcomposer.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/hw/keystore.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/keystore.exynos9610.so \
-    vendor/motorola/exynos9610-common/proprietary/vendor/lib/hw/memtrack.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/hw/power.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/power.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/hw/thermal.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib/hw/vendor.egistec.hardware.fingerprint@4.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.egistec.hardware.fingerprint@4.0-impl.so \
@@ -390,7 +389,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/hw/gralloc.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/hw/hwcomposer.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/hw/keystore.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/keystore.exynos9610.so \
-    vendor/motorola/exynos9610-common/proprietary/vendor/lib64/hw/memtrack.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/memtrack.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/hw/power.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/power.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/hw/thermal.exynos9610.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.exynos9610.so \
     vendor/motorola/exynos9610-common/proprietary/vendor/lib64/hw/vendor.egistec.hardware.fingerprint@4.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.egistec.hardware.fingerprint@4.0-impl.so \
