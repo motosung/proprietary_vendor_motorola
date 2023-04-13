@@ -7,8 +7,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_COPY_FILES += \
     vendor/motorola/exynos9610-common/proprietary/vendor/etc/permissions/com.motorola.motosignature.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.motorola.motosignature.xml \
-    vendor/motorola/exynos9610-common/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
-    vendor/motorola/exynos9610-common/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so \
     vendor/motorola/exynos9610-common/proprietary/lib64/libmedia_ims.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmedia_ims.so \
     vendor/motorola/exynos9610-common/proprietary/lib64/libmediaadaptor.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmediaadaptor.so \
     vendor/motorola/exynos9610-common/proprietary/product/etc/permissions/com.motorola.camera2.content.ai.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.motorola.camera2.content.ai.xml \
